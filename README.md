@@ -6,6 +6,10 @@ I'm passionate about network, system (obvious no ? :D), automation and developem
 
 I love some magic tools like Ansible, Terraform or Packer.
 
-Here is my Homelab
+<a href="https://www.linkedin.com/in/ludovic-ortega-6a102a172/">LinkedIn</a> 💼
 
-![diagram.png](diagram.png)
+ # Here is my Homelab
+<div>
+<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/diagram.png" width="50%" alt="Homelab diagram">
+<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/homelab.png" width="50%" alt="Homelab picture">
+</div>
