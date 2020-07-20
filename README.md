@@ -10,6 +10,6 @@ I love some magic tools like Ansible, Terraform or Packer.
 
  # Here is my Homelab
 <div>
-<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/diagram.png" width="50%" alt="Homelab diagram">
-<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/homelab.png" width="50%" alt="Homelab picture">
+<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/diagram.png" width="49%" alt="Homelab diagram">
+<img src="https://raw.githubusercontent.com/M0NsTeRRR/M0NsTeRRR/master/homelab.png" width="49%" alt="Homelab picture">
 </div>
