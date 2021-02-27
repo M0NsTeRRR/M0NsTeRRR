@@ -19,7 +19,7 @@ You can contact me through email.
 
 # Homelab
 
-I'm hosting everything except emails and domains from Layer 1 to Layer 7 
+I'm hosting everything except emails and domains from Layer 1 to Layer 7  
 Owner of [AS212510](https://as212510.peeringdb.com)
 
 [Homelab pic](homelab.png)  
