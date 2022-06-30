@@ -12,8 +12,9 @@
 	</a>
 </p>
 
-I'm a student in master degree at [University of Chambery](https://scem-tri.univ-smb.fr/) in Networks and Telecommunications.  
-I'm passionate about network, system (obvious no ? :p), automation and developement.  
+I'm a student in Master degree at [University of Lyon2](https://www.univ-lyon2.fr/) in organization and protection of company information systems (OPSIE).  
+I've a Master degree in Network and Telecommunication.  
+I'm passionate about network, system (obvious no ? :p), automation, developement and security.  
 I love some magic tools like Ansible, Terraform or Packer.  
 You can contact me through email.  
 
