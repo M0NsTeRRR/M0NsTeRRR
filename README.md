@@ -12,10 +12,10 @@
 	</a>
 </p>
 
-I'm a NetOps Engineer.  
+I'm a NetOps/NetDev Engineer.  
 I've a Master degree in Network and Telecommunication and another one in CyberSecurity.  
 I'm passionate about network, system (obvious no ? :p), automation, developement and security.  
-I love some magic tools like Ansible, Terraform, Packer or Kubernetes.  
+I love some magic tools like Ansible, Terraform, Packer and Kubernetes.  
 You can contact me through email.  
 
 # Homelab
