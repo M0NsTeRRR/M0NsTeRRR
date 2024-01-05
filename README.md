@@ -23,7 +23,4 @@ You can contact me through email.
 I'm hosting everything except emails and domains from Layer 1 to Layer 7  
 Owner of [AS212510](https://as212510.peeringdb.com)
 
-[Homelab pic](homelab.png)  
-[Homelab configuration repository](https://github.com/M0NsTeRRR/homelabv3-infra)  
-[Network physical diagram](homelab_physical_diagram.png)  
-[Network logical diagram](homelab_logical_diagram.png)  
+[Homelab documentation](https://homelab.adminafk.fr)
