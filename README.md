@@ -1,13 +1,15 @@
 ### Heyyy 🧙, I am Ludovic
 
-I'm a NetOps/NetDev Engineer.  
-I've a Master degree in Network and Telecommunication and another one in CyberSecurity.  
-I'm passionate about network, system (obvious no ? :p), automation, developement and security.  
-You can contact me through email.  
+NetOps/NetDev Engineer with a Master’s degree in Network and Telecommunications and another in Cybersecurity. My work is driven by a strong commitment to privacy and open-source projects.
+
+I am passionate about automation, software development, and contributing to open-source projects.
+
+I use NixOS as my daily driver for its reproducibility and robustness, alongside GrapheneOS for its strong security and privacy guarantees.
 
 # Homelab
 
 I'm hosting everything except emails and domains from Layer 1 to Layer 7  
+
 Owner of [AS212510](https://as212510.peeringdb.com)
 
 [Homelab documentation](https://homelab.adminafk.fr)
